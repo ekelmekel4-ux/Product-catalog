@@ -43,7 +43,7 @@ Aplikasi memungkinkan pengguna untuk mengelola data produk secara lengkap (Creat
 
 ### 🏠 Halaman Utama
 
-![Halaman Utama](images/home.png)
+![Halaman Utama](images/Tampilan Beranda.png)
 
 ---
 
